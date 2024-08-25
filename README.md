@@ -17,13 +17,20 @@ Each folder in the root of this repository represents a unique project that util
 
 3. **Contribute**: If you're a member of the Robotics Club and have a project you'd like to add, please follow the contribution guidelines below.
 
-## Contribution Guidelines
+## Contribution Guidelines 🤝
 
 We encourage contributions from all club members! Please follow these guidelines:
 
 1. **Fork the Repository**: Create a fork of this repository to your GitHub account.
 2. **Create a New Project Folder**: Name the folder after your project, and add all necessary files, including a `README.md`.
 3. **Submit a Pull Request**: Once your project is ready, submit a pull request to merge it into this repository.
+
+
+## Contributors 🫂
+
+<a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano" />
+</a>
 
 ## License
 
