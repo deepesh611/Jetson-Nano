@@ -2,7 +2,7 @@
 
 Welcome to the **Jetson-Nano** repository! This repository contains a collection of projects developed using the NVIDIA Jetson Nano, a powerful and compact AI computer designed for embedded applications.
 
-## Repository Structure
+## Repository-Structure
 
 Each folder in the root of this repository represents a unique project that utilizes the Jetson Nano. These projects demonstrate various applications in robotics, AI, computer vision, and more.
 
